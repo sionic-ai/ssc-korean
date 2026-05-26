@@ -1,0 +1,178 @@
+## Ars Longa, Vita Brevis
+
+November 9, 2017 
+
+The Alchemist asked if I wanted a drink. I did, but no amount of staring could make my eyes settle on the color of the liquid in the flask. And the gold the alchemists paid the taxmen smelled funny and made crackling noises. I declined. 
+
+I took the summons and set it on the table between us. The King’s son was dying. The doctors, astrologers, witches, and other assorted wise people of the kingdom could not save him. The King had asked for an alchemist, and been given one. He, too, had failed. But he had let on that there were other alchemists in the guild, greater alchemists, who knew far more than he. So the king had demanded that all the guild’s top alchemists come to the palace and try to save his son’s life. And the alchemists’ guild had refused, saying their studies could not be interrupted. 
+
+So here I was, come to make the request again, more formally but less politely. 
+
+The Alchemist pretended to read the parchment. I could tell he was faking; his eyes stayed still the whole time. Finally he gave me the same answer he had given the king’s courier: the alchemists’ studies could not be interrupted. 
+
+“Why is a few weeks subtracted from your studies more important than the prince’s life?” I demanded, staring straight into his creepy too-still eyes. 
+
+He spent too long not answering. I worried I’d broken him, that he was some kind of intricate clockwork machine and I’d yelled too loud and shifted a gear out of place. Finally he asked: “How long would you have to study architecture before you could build a castle like this one?” 
+
+“I’m no architect,” I said. “I’m a man of war.” 
+
+“Yes. So how long would you have to study, before you were an architect?” 
+
+“Ten years?” I asked. “Twenty?” 
+
+“Why so? There are books of architecture, some of them written by men far greater than the planner of this castle. Some are five hundred pages long, others a thousand. Are you so slow a reader, that it would take you ten years to read a thousand pages?” 
+
+“You can’t just read a book and know architecture.” 
+
+“But why not?” 
+
+“Because… you wouldn’t…” I had been annoyed when he first asked, but now I found the question interesting, at least amusing. Why *couldn’t* a great architect write his knowledge down in a book? And why *couldn’t* I read it and become as good as he? 
+
+“Because you’d have to memorize it all,” I finally concluded. 
+
+“Not so. I will let you carry the book with you as you build the castle.” 
+
+“It wouldn’t help. It wouldn’t be… indexed properly in my head. I would want to build a wall, and I wouldn’t even know what things to consider when building a wall, and I would have to search the whole book for them each time.” 
+
+“You are a man of war,” repeated the Alchemist. “Do you know Caesar’s histories?” 
+
+“Almost by heart.” 
+
+“Are you as good a general as Caesar?” 
+
+“No.” 
+
+“Why not?” 
+
+I took his point. Caesar had written down everything he could about war. I had mastered all of it. But I was no Caesar. It couldn’t just be the difficulty of memorizing books. 
+
+“Knowledge,” said the Alchemist, “is harder to transmit than anyone appreciates. One can write down the structure of a certain arch, or the tactical considerations behind a certain strategy. But above those are higher skills, skills we cannot name or appreciate. Caesar could glance at a battlefield and know precisely which lines were reliable and which were about to break. Vitruvius could see a great basilica in his mind’s eye, every wall and column snapping into place. We call this wisdom. It is not unteachable, but neither can it be taught. Do you understand?” 
+
+I did. If I trained with Caesar for years, some of his skill at reading a battlefield might rub off on me; I might dimly see the outlines of his genius. But he couldn’t just tell me. It wasn’t a secret which he hid from other men to remain above them. It was a power belonging to him alone, only partially transferable. 
+
+“So imagine,” continued the Alchemist, “that you wanted to build the simplest of structures. A cottage for peasants. How long would you have to study architecture under Vitruvius before you could do it?” 
+
+This time I didn’t bother protesting that I didn’t know. I just guessed. “A year?” 
+
+“And suppose you want to build something more complex. An aqueduct, every bit the equal of the Romans’. How long?” 
+
+“Five years?” 
+
+“Some grand building, a palace or temple?” 
+
+“…ten years?” 
+
+“The grandest building in the world. St. Peter’s Basilica, or the Pantheon, or Chartres Cathedral, or something new that combines the virtues of all three.” 
+
+“How should I know? Twenty years? Thirty?” 
+
+“Would you believe me if I said it was two hundred years?” 
+
+“No. The human lifespan is three score and ten. If you needed more than seventy years of studying architecture to design St. Peter’s, it would never have gotten designed.” 
+
+“Then,” said the Alchemist, “we have discovered something surprising. The art of architecture is limited by the human lifespan. The greatest building that can ever be designed is the one that would take seventy years of studying architecture to master; God has drawn a line in the sand forever closing off buildings grander than these.” 
+
+I thought for a second. “That doesn’t seem right. There are new innovations every year. The flying buttress, stained glass, the pointed arch. The Romans had none of these. We progress not only by studying the works of Vitruvius, but by pushing beyond him. Perhaps it takes a century for someone to invent the buttress, but once it is invented, only weeks for other architects to observe it and understand it well enough to incorporate into their own buildings. Architecture does not advance only architect by architect, but also civilization by civilization.” 
+
+“Are you skilled at mathematics?” asked the Alchemist. 
+
+I shook my head. 
+
+“Then we will talk this over, though rightfully it should be an equation. The first term is the speed at which a student can absorb already-discovered architectural knowledge. The second term is the speed at which a master can discover new knowledge. The third term represents the degree to which one must already be on the frontier of knowledge to make new discoveries; at zero, everyone discovers equally regardless of what they already know; at one, one must have mastered every previously-discovered fact before one can discover anything new. The fourth term represents potential for specialization; at one, it is impossible to understand any part without understanding the whole; at zero, it can be subdivided freely. The fifth…” 
+
+“I don’t think saying it in words makes the math easier to understand.” 
+
+“Ah. Well, imagine a science that takes one-tenth as long for a student to understand, as it did a master to discover. And imagine that one cannot advance the science until one understands everything that has already been discovered. And one cannot split the burden; tell one architect ‘Oh, you learn how to make walls, I will learn how to make roofs’ – a single genius must understand the whole building, every part must fit together perfectly. We can calculate how far the art can advance.” 
+
+“How?” 
+
+“The first student has no master, and must discover everything himself. He researches for 70 years, then writes his wisdom into a book before he dies. The second student reads the book, and in 7 years, he has learned 70 years of research. Then he does his own original research for 63 years and writes a book containing 133 years of research. The third student reads for 13.3 years, then does his own research for 66.7 years, ending up with 200 years. Imagine going further and further. After many generations, 690 years of research have been done, and it takes a student 69 years to master them. The student only has one year left of life to research further, leaving the world with 691 years of research total. So the cycle creeps onward, always approaching but never quite reaching 700 years of architectural research.” 
+
+“It doesn’t work that way,” I protested, partly because it didn’t, and partly because something about the story distressed me more than I could say. 
+
+“Not in architecture. An architect who has not yet mastered the entire field can still make discoveries. And the field can be split – I can work on walls while you work on windows. It would only work that way if there were an Art so unified, so perfect, that a seeker had to know the totality of what had been discovered before, if he wanted to know anything at all.” 
+
+“Then you really could never advance past 700 years of knowledge.” 
+
+“You would have to be clever. We imagine each master writing down his knowledge in a book for the student who comes after, and each student reading it at a rate of ten times as quickly as the master discovered it. But what if there was a third person in between, an editor, who reads the book not to learn the contents, but to learn how to rewrite it better and more clearly? Someone whose job it is to figure out perfect analogies, clever shortcuts, new ways of graphing and diagramming the information involved. After he has processed the master’s notes, he redacts them into a textbook which can teach in only a twentieth the time it took the master to discover.” 
+
+“Then we could double the amount of research that could eventually be completed, to 1400 years’ worth.” 
+
+“Not easily. Remember, the editors face the same problem as the students: they can only redact knowledge they themselves understand. We are adding many new people, and many generations of work, to the problem. But in the end, yes, you could accumulate 1400 years of knowledge. What if you wanted more?” 
+
+“More?” 
+
+“I’m afraid so.” 
+
+“Hm. You… could get more layers of redactors. Redactors of redactors, to make the textbooks truly perfect.” 
+
+“Perhaps what you are trying to say is that redaction is an Art.” 
+
+The Alchemist made the the capital letter unmistakeable. 
+
+“Every Art has its own structure. Architecture, with enough study, can allow you to accumulate seven hundred years of collected knowledge. How many years could redactors and tutors accumulate? Would some first redactor have to spend seventy years coming up with principles of redaction to pass down to his student, who advances the art by sixty-three more years, which he passes down in turn? Would a 1400-year redactor be an incomprehensible master, able to build whole basilicas of redaction, a master teacher who could frame any concepts to make it intuitive and memorable?” 
+
+“I changed my mind. I’m going to have that drink.” 
+
+The Alchemist poured me the liquid of indeterminate color. I took a sip. It reminded me of nothing I had ever tasted before, but very slightly of the letter “N”. More important, I was pretty sure it was alcoholic. 
+
+“You’re talking about an infinite regress”, I said, when I had finished the glass. 
+
+“Not infinite. Architects. Teachers. Teachers of teachers, but the art of teaching teaching is much the same as the art of teaching. Three levels is enough. Though the levels have to mix. The teacher who trains the next architect must be a master both of teaching and of architecture. I will spare you the math, but one needs a series of teachers at different points on the teaching-skill/architecture-skill tradeoff-curve. One will be a master teacher who has devoted decades to learning the textbook-writing skill, and who can write a brilliant Introduction To Architecture textbook that makes the first ten years of architecture ability seem perfectly natural and easy to master. Another will be a mediocre teacher who knows enough advanced architecture to write a passable textbook on the subject. Still another will do nothing but study pure Teaching itself, in the hopes that he can one day pass on this knowledge to others who will use it to write architecture textbooks. In practice we are limited to a few strategic points on the tradeoff curve.” 
+
+“In practice?” 
+
+He motioned for me to get up. We walked through dark corridors until we reached a courtyard, bathed in the glow of the full moon. It took me a second to see it. Then the dull shapes took form. Obelisks, covered in hieroglyphs. A garden of obelisks. 
+
+“The word ‘alchemy’ comes from ‘al-Kemi’, the Arabic word from Egypt. It was the ancient Egyptians who first considered the project. They didn’t want the Philosophers’ Stone, not at first. They just wanted normal philosophers. But philosophy, more than other subjects, requires the wisdom that comes with age. More than other subjects, a philosophy book cannot merely be read; it must be digested, intermingled with life experience, wrestled with. The Egyptians scholars ran into precisely the problem as our hypothetical architects – there were secrets that evaded the human lifespan. 
+
+“So they wondered whether a way to cheat death might be found. The answer was both exciting and discouraging. Through the mysteries of spiritual chemistry, an elixir might be created which would grant immortality. But the Work itself would take far more knowledge than any one man could accumulate. The symbol of alchemists is the ouroboros because our task loops back upon itself. In order to become immortal, you must first become immortal. 
+
+“All we could do was go the slow way, the same as the architects working on their great basilica, for generation after generation. So Egypt fell, but we did not fall. Rome passed away, but we did not pass. A few lines, the remnants of the old priestly families of Hierakonopolis and Memphis, continued the work. To stop would be to reset a process requiring four thousand years of gradual asymptotic improvement all the way to the beginning – texts are not worthless, but only the true tutors trained by tutor-tutors trained by tutor-tutor-tutors are fit to tutor an alchemist. A misstep is too terrible to contemplate. But any victory – a single vial of the Elixir, a single fragment of the stone – would end the nightmare forever. We would have an immortal, a philosopher whose lifespan finally matches the depth of the challenges Nature throws at us. 
+
+“That is our guild’s mission. A few of us, those who pass all their tests, do the alchemic research that moves the Work onwards. Others train to be teachers, or teachers-of-teachers. Those who fail a test somewhere along the way stay in the guild, managing its worldly affairs. Some scour the countryside for prodigies to take in and train as apprentices. Others manage our finances. And the very least capable, like me, have time to waste talking to outsiders, trying to convince them of our mission. A few centuries more, and we will have the Stone. Does that satisfy your curiosity?” 
+
+“All except my original question. Are you so busy that you cannot spare a few weeks for the prince?” 
+
+“God does not make the Great Work easy. We have done all we can to train our alchemists, our tutors, our tutor-tutors, and so on, yet in the end, the limit of human skill is the same place the possibility of success begins. It is His will to grind us up to the very asymptote.” 
+
+“I still don’t get it.” 
+
+“Do you remember the architects who learned at ten times the rate they researched, the ones who would never accumulate more than 700 years of learning? The fiftieth alchemist in the sequence has 696 years of learning, and is able to do a scant five months’ original research before his death. The hundredth alchemist has 699.98 years of learning, and is able to do about a day’s research before dying. We are not so far along as all that, but we are far. We do not have the Stone, but we have tinctures that can stabilize the lifespan, make sure nobody dies before their time. The last few generations – on their deathbed, they say they can almost *taste* the Stone, that it lies only a few hours of further thought beyond their level. They say of my grandfather that he realized the recipe for the Stone on his deathbed, that he started speaking it, but that his eyes closed forever before he could complete the ingredient list.” 
+
+“So?” 
+
+“You ask that we pause a few weeks from our studies to save the prince’s life. Pausing a few weeks would set us back generations. This far into the project, only the last few hours of an Alchemist’s life are of any value at all. We cannot spare the prince hours. We cannot even spare him seconds.” 
+
+“Then your teachers… or your teacher-teachers?” 
+
+“Know some alchemy, but are in the same situation. Our textbooks have been so perfectly written and rewritten over the years that it is only in the last few days of a teacher’s life that he is skilled enough to write a better one. And our teacher-training has become so perfect that it is only in the last few days of a teacher-trainer’s life that he is qualified to create teachers better than the ones who already exist.” 
+
+“There’s no slack in the system at all?” 
+
+“Only me, and those like me. Those judged unfit for research and condemned to worldly matters. We sent you one already. He failed you, as he did us. We have nothing more to give.” 
+
+“The king will not be happy. And the Prince will die.” 
+
+“Everyone dies,” said the Alchemist. “If the prince does not die this year, he will die the next, or fifty years hence. The question is not when we die, but what our life adds to the Work which accumulates in spite of time. Quicksilver evaporates to nothing unless reacted with aqua fortis; but the part which is reacted endures forever. Those lives not part of any Work mean as little to me as they will one day mean to their possessors; those which add to the Work are more precious than gold. Tell the King this.” 
+
+“He won’t understand,” I said. 
+
+“Then you will have to teach him,” said the Alchemist, “as I taught you, and my tutors taught me, and as their tutors taught them, all the way back to the first philosophers of Egypt.” 
+
+He stared at me as he spoke, and the blackness in his too-still pupils was the depth of Time. 
+
+[ ][1]
+
+[Category][2]: [fiction][3] 
+
+[1960: The Year The Singularity Was Cancelled][4][Home][5][“Powers, complete mental revision, ultraintelligence, posthumanity…”][6]
+
+3131 words
+
+ [1]: https://www.slatestarcodex.com/Ars-Longa-Vita-Brevis#comments "View SSC discussion thread for “Ars Longa, Vita Brevis”"
+ [2]: https://www.slatestarcodexabridged.com/Category/Category
+ [3]: https://www.slatestarcodexabridged.com/Category/Fiction
+ [4]: https://www.slatestarcodexabridged.com/1960-The-Year-The-Singularity-Was-Cancelled
+ [5]: https://www.slatestarcodexabridged.com/
+ [6]: https://www.slatestarcodexabridged.com/Powers-Complete-Mental-Revision-Ultraintelligence-Posthumanity
